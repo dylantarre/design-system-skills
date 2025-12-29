@@ -1,0 +1,13 @@
+{
+  "name": "design-system-skills",
+  "description": "Design system toolkit: tokens, components, accessibility, and framework integrations",
+  "version": "1.0.0",
+  "author": {
+    "name": "Dylan Tarre",
+    "email": "me@dylantarre.com"
+  },
+  "homepage": "https://github.com/dylantarre/design-system-skills",
+  "repository": "https://github.com/dylantarre/design-system-skills",
+  "license": "MIT",
+  "keywords": ["design-system", "tokens", "accessibility", "components", "tailwind", "figma"]
+}

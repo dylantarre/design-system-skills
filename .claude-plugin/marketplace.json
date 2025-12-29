@@ -1,0 +1,16 @@
+{
+  "name": "design-system-marketplace",
+  "description": "Dylan Tarre's design system skills marketplace",
+  "owner": {
+    "name": "Dylan Tarre",
+    "email": "me@dylantarre.com"
+  },
+  "plugins": [
+    {
+      "name": "design-system-skills",
+      "description": "Design system toolkit: tokens, components, accessibility, and framework integrations",
+      "version": "1.0.0",
+      "source": "./"
+    }
+  ]
+}
