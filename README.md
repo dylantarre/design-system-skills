@@ -20,6 +20,7 @@ Generate design tokens in CSS, Tailwind, or JSON formats:
 - **radius-scale** - Border radius tokens
 - **breakpoints** - Responsive breakpoint definitions
 - **motion-scale** - Animation duration, easing, and timing tokens
+- **z-index-scale** - Layering tokens for predictable stacking contexts
 
 ### Frameworks
 Framework-specific component patterns:
@@ -35,6 +36,7 @@ Design tool integrations:
 - **figma** - Sync tokens with Figma
 - **storybook** - Component documentation
 - **framer** - Framer token integration
+- **style-dictionary** - Multi-platform token transformation (CSS, iOS, Android)
 
 ### Accessibility
 WCAG compliance and a11y patterns:
