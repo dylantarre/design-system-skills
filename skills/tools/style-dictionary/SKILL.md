@@ -40,13 +40,11 @@ Copy this checklist when setting up Style Dictionary:
 
 ```
 Style Dictionary Setup:
-- [ ] Install style-dictionary
-- [ ] Create tokens/ directory with JSON files
-- [ ] Create style-dictionary.config.js
-- [ ] Configure platforms (web, ios, android as needed)
-- [ ] Add custom transforms if needed (px→rem, color formats)
-- [ ] Add build script to package.json
-- [ ] Run build and verify output
+- [ ] Install: `npm install style-dictionary`
+- [ ] Create tokens/ directory with source JSON files
+- [ ] Create style-dictionary.config.js with source paths and platform outputs
+- [ ] Add build script to package.json: `"tokens:build": "style-dictionary build"`
+- [ ] Run build and verify output files are generated correctly
 ```
 
 ---

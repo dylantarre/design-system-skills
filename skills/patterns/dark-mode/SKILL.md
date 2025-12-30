@@ -43,14 +43,15 @@ Copy this checklist and track progress:
 
 ```
 Dark Mode Implementation:
-- [ ] Audit existing colors (grep for hex, rgb, hsl)
-- [ ] Create semantic tokens (bg-primary, text-primary, border-primary)
-- [ ] Define light theme values
-- [ ] Define dark theme values
-- [ ] Add switching mechanism (data-theme attribute)
+- [ ] Audit colors in codebase (grep for hex, rgb, hsl, color names)
+- [ ] Create semantic token layer (bg, text, border, surface, interactive, status)
+- [ ] Define light and dark theme values for all semantic tokens
+- [ ] Implement switching mechanism (data-theme attribute recommended)
+- [ ] Add system preference detection (prefers-color-scheme)
 - [ ] Add inline script in <head> to prevent flash of wrong theme
-- [ ] Implement toggle + localStorage persistence
-- [ ] Test contrast on both themes
+- [ ] Build toggle component with localStorage persistence
+- [ ] Handle edge cases (images, shadows, third-party components, form inputs)
+- [ ] Test contrast ratios meet WCAG AA in both themes
 ```
 
 ## Theme Token Architecture

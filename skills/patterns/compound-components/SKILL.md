@@ -23,14 +23,12 @@ Copy this checklist when building a compound component:
 
 ```
 Compound Component Build:
-- [ ] Define component parts (Root, Trigger, Content, etc.)
-- [ ] Create context with state and refs
-- [ ] Implement Root with context provider
-- [ ] Add ARIA attributes (aria-expanded, aria-controls, aria-labelledby)
-- [ ] Add keyboard navigation (Escape, Arrow keys)
-- [ ] Handle focus management
-- [ ] Add data-state attributes for CSS styling
-- [ ] Test with keyboard and screen reader
+- [ ] Define component parts and responsibilities (Root, Trigger, Content, Item, etc.)
+- [ ] Create Root with context provider (state, refs, generated IDs)
+- [ ] Implement child components with ARIA roles and data-state attributes
+- [ ] Add keyboard navigation (Arrow keys, Enter/Space, Escape, Tab)
+- [ ] Handle focus management (initial focus, focus trap for modals, focus restoration)
+- [ ] Test with keyboard-only navigation and screen reader
 ```
 
 ## Quick Reference: Pattern Comparison

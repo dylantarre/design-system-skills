@@ -23,13 +23,12 @@ Copy this checklist when architecting a token system:
 
 ```
 Token Architecture Setup:
-- [ ] Audit existing design values (colors, spacing, typography)
+- [ ] Audit existing values and establish naming conventions
 - [ ] Define primitive tokens (raw values, context-free)
 - [ ] Define semantic tokens (purpose-based, reference primitives)
-- [ ] Create theme overrides (light.json, dark.json)
-- [ ] Add component tokens if needed for complex components
-- [ ] Set up build process (Style Dictionary or direct CSS)
-- [ ] Document naming conventions
+- [ ] Create theme overrides (dark.json, brand variants)
+- [ ] Add component tokens for complex stateful components
+- [ ] Configure build output (CSS variables, Tailwind, JSON)
 ```
 
 ## Quick Reference: Token Layers
