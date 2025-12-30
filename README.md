@@ -1,6 +1,6 @@
 # Design System Skills
 
-A Claude Code plugin marketplace for design system development: token generators, component patterns, accessibility guidance, and integrations with popular frameworks and design tools.
+Design system skills by [buoy.design](https://buoy.design) — token generators, component patterns, accessibility guidance, and framework integrations.
 
 ## Installation
 
