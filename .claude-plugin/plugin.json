@@ -1,6 +1,6 @@
 {
   "name": "design-system-skills",
-  "description": "Design system skills by buoy.design: tokens, components, accessibility, and framework integrations",
+  "description": "Token generators, component patterns, accessibility guidance, and framework integrations",
   "version": "1.0.0",
   "author": {
     "name": "Dylan Tarre",
