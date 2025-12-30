@@ -53,6 +53,7 @@ Implementation patterns for common challenges:
 - **dark-mode** - Theme switching, semantic tokens, system preference detection
 - **compound-components** - Radix/Headless UI patterns for accessible composable components
 - **icon-system** - SVG sprites, icon components, sizing tokens, and accessibility
+- **layout-primitives** - Stack, Cluster, Sidebar, Grid composition patterns
 
 ### Documentation
 Generate documentation:
