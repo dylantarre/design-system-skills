@@ -21,6 +21,7 @@ Generate design tokens in CSS, Tailwind, or JSON formats:
 - **breakpoints** - Responsive breakpoint definitions
 - **motion-scale** - Animation duration, easing, and timing tokens
 - **z-index-scale** - Layering tokens for predictable stacking contexts
+- **design-tokens-structure** - Token architecture (primitive, semantic, component layers)
 
 ### Frameworks
 Framework-specific component patterns:
@@ -49,6 +50,7 @@ WCAG compliance and a11y patterns:
 Implementation patterns for common challenges:
 
 - **dark-mode** - Theme switching, semantic tokens, system preference detection
+- **compound-components** - Radix/Headless UI patterns for accessible composable components
 
 ### Documentation
 Generate documentation:
