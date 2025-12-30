@@ -19,6 +19,7 @@ Generate design tokens in CSS, Tailwind, or JSON formats:
 - **shadow-scale** - Elevation and depth tokens
 - **radius-scale** - Border radius tokens
 - **breakpoints** - Responsive breakpoint definitions
+- **motion-scale** - Animation duration, easing, and timing tokens
 
 ### Frameworks
 Framework-specific component patterns:
