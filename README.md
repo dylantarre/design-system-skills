@@ -1,6 +1,6 @@
 # Design System Skills
 
-Design system skills by [buoy.design](https://buoy.design) — token generators, component patterns, accessibility guidance, and framework integrations.
+Token generators, component patterns, accessibility guidance, and framework integrations.
 
 ## Installation
 
