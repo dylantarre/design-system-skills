@@ -9,5 +9,6 @@
   "homepage": "https://github.com/dylantarre/design-system-skills",
   "repository": "https://github.com/dylantarre/design-system-skills",
   "license": "MIT",
-  "keywords": ["design-system", "tokens", "accessibility", "components", "tailwind", "figma"]
+  "keywords": ["design-system", "tokens", "accessibility", "components", "tailwind", "figma"],
+  "skills": "./skills"
 }

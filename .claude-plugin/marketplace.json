@@ -1,9 +1,12 @@
 {
   "name": "design-system-marketplace",
-  "description": "Dylan Tarre's design system skills marketplace",
   "owner": {
     "name": "Dylan Tarre",
     "email": "me@dylantarre.com"
+  },
+  "metadata": {
+    "description": "Dylan Tarre's design system skills marketplace",
+    "version": "1.0.0"
   },
   "plugins": [
     {
