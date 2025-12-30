@@ -22,6 +22,7 @@ Generate design tokens in CSS, Tailwind, or JSON formats:
 - **motion-scale** - Animation duration, easing, and timing tokens
 - **z-index-scale** - Layering tokens for predictable stacking contexts
 - **design-tokens-structure** - Token architecture (primitive, semantic, component layers)
+- **responsive-typography** - Fluid type that scales with viewport using clamp()
 
 ### Frameworks
 Framework-specific component patterns:
@@ -51,6 +52,7 @@ Implementation patterns for common challenges:
 
 - **dark-mode** - Theme switching, semantic tokens, system preference detection
 - **compound-components** - Radix/Headless UI patterns for accessible composable components
+- **icon-system** - SVG sprites, icon components, sizing tokens, and accessibility
 
 ### Documentation
 Generate documentation:
