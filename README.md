@@ -54,6 +54,7 @@ Implementation patterns for common challenges:
 - **compound-components** - Radix/Headless UI patterns for accessible composable components
 - **icon-system** - SVG sprites, icon components, sizing tokens, and accessibility
 - **layout-primitives** - Stack, Cluster, Sidebar, Grid composition patterns
+- **animation-principles** - Disney's 12 principles applied to UI motion design
 
 ### Documentation
 Generate documentation:
