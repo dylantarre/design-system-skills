@@ -42,6 +42,11 @@ WCAG compliance and a11y patterns:
 - **focus-states** - Keyboard focus indicators
 - **aria-patterns** - ARIA for interactive components
 
+### Patterns
+Implementation patterns for common challenges:
+
+- **dark-mode** - Theme switching, semantic tokens, system preference detection
+
 ### Documentation
 Generate documentation:
 
