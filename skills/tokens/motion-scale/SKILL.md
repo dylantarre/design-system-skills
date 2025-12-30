@@ -1,6 +1,6 @@
 ---
 name: motion-scale
-description: Use when creating animation tokens, transition timing, or motion systems. Covers duration, easing, and reduced motion support.
+description: Generates animation duration, easing curves, and delay tokens with prefers-reduced-motion support. Use when creating transition timing, animation speed, or motion systems. Outputs CSS, Tailwind, or JSON.
 ---
 
 # Motion Scale Generator

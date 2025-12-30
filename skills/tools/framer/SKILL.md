@@ -1,6 +1,6 @@
 ---
 name: framer
-description: Use when integrating design tokens with Framer, creating Framer overrides, or building interactive prototypes with design system tokens.
+description: Integrates design tokens with Framer for prototyping and production sites. Use when adding CSS custom properties to Framer projects, creating code components, or building Framer sites with design systems.
 ---
 
 # Framer Token Integration

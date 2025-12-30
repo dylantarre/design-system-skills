@@ -1,6 +1,6 @@
 ---
 name: shadow-scale
-description: Use when creating elevation systems, depth tokens, or box-shadow scales. Supports layered shadows for realistic depth.
+description: Generates layered box-shadow elevation tokens for depth hierarchy. Use when creating elevation systems, card shadows, modal depth, or dark mode shadow variants. Outputs CSS, Tailwind, or JSON.
 ---
 
 # Shadow Scale Generator

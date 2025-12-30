@@ -1,6 +1,6 @@
 ---
 name: color-scale
-description: Use when generating color palettes, creating design tokens, or building theme systems with brand colors. Supports CSS, Tailwind, and JSON output.
+description: Generates perceptually uniform OKLCH color palettes from brand colors. Use when creating color systems, theme palettes, or converting hex values to 11-step scales. Outputs CSS custom properties, Tailwind config, or JSON tokens.
 ---
 
 # Color Scale Generator

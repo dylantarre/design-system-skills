@@ -1,6 +1,6 @@
 ---
 name: react
-description: Use when building React components with design tokens, creating component libraries, or implementing design system patterns in React/Next.js projects.
+description: Builds token-driven React components with TypeScript and modern patterns. Use when creating React component libraries, integrating CSS custom properties, or building Next.js design system components with forwardRef and composition.
 ---
 
 # React Component Patterns

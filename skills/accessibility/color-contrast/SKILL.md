@@ -1,6 +1,6 @@
 ---
 name: color-contrast
-description: Use when checking WCAG contrast ratios, validating color combinations, or generating accessible color pairings. Supports AA and AAA compliance.
+description: Validates WCAG 2.1 contrast ratios and generates accessible color pairings. Use when checking accessibility compliance, fixing contrast issues, or selecting text/background combinations for AA or AAA levels.
 ---
 
 # Color Contrast Checker

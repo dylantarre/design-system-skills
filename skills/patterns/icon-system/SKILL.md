@@ -1,6 +1,6 @@
 ---
 name: icon-system
-description: Use when setting up an icon system. Covers SVG sprites, icon components, sizing tokens, and accessibility.
+description: Implements scalable icon systems with SVG sprites or React/Vue components. Use when setting up icon libraries, creating icon sizing tokens, optimizing SVGs, or building accessible icon buttons.
 ---
 
 # Icon System

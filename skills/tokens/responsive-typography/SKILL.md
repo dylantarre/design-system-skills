@@ -1,6 +1,6 @@
 ---
 name: responsive-typography
-description: Use when implementing fluid typography that scales with viewport. Covers clamp(), fluid type scales, and responsive text sizing.
+description: Implements fluid typography using CSS clamp() that scales with viewport. Use when creating responsive font sizes, viewport-aware headings, or type that adapts smoothly without breakpoints.
 ---
 
 # Responsive Typography

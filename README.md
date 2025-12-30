@@ -8,7 +8,9 @@ Token generators, component patterns, accessibility guidance, and framework inte
 /plugin https://github.com/dylantarre/design-system-skills
 ```
 
-## Skills
+## Getting Started
+
+New to the plugin? Use the `getting-started` skill to see all available skills and recommended paths for common tasks.
 
 ### Tokens
 Generate design tokens in CSS, Tailwind, or JSON formats:

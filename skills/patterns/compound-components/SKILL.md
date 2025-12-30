@@ -1,6 +1,6 @@
 ---
 name: compound-components
-description: Use when building accessible, composable UI components. Covers Radix/Headless UI patterns with slots, context, and proper ARIA.
+description: Builds accessible composable components using Radix/Headless UI patterns. Use when creating Select, Dialog, Tabs, Accordion, Menu, or Dropdown components with proper ARIA, keyboard navigation, and focus management.
 ---
 
 # Compound Components
@@ -16,6 +16,22 @@ Build accessible, composable components using the compound component pattern. Th
 - Need flexibility in how components render
 - Want to separate behavior from styling
 - Components with complex state (open/closed, selected, focused)
+
+### Implementation Checklist
+
+Copy this checklist when building a compound component:
+
+```
+Compound Component Build:
+- [ ] Define component parts (Root, Trigger, Content, etc.)
+- [ ] Create context with state and refs
+- [ ] Implement Root with context provider
+- [ ] Add ARIA attributes (aria-expanded, aria-controls, aria-labelledby)
+- [ ] Add keyboard navigation (Escape, Arrow keys)
+- [ ] Handle focus management
+- [ ] Add data-state attributes for CSS styling
+- [ ] Test with keyboard and screen reader
+```
 
 ## Quick Reference: Pattern Comparison
 

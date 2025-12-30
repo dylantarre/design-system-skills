@@ -1,6 +1,6 @@
 ---
 name: layout-primitives
-description: Use when building layout component primitives. Covers Stack, Cluster, Sidebar, Grid, and other composition patterns.
+description: Builds composable layout components (Stack, Cluster, Grid, Sidebar, Center, Cover). Use when creating layout systems, spacing compositions, or Every Layout-style intrinsic design patterns that adapt without breakpoints.
 ---
 
 # Layout Primitives

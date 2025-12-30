@@ -1,6 +1,6 @@
 ---
 name: breakpoints
-description: Use when creating responsive breakpoints, media query tokens, or mobile-first layout systems. Supports container queries.
+description: Generates responsive breakpoint tokens for media queries and container queries. Use when setting up responsive design, mobile-first layouts, or viewport-based styling. Outputs CSS, Tailwind, or JSON.
 ---
 
 # Breakpoints Generator

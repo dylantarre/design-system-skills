@@ -1,6 +1,6 @@
 ---
 name: radius-scale
-description: Use when creating border radius tokens, rounding scales, or consistent corner systems. Supports contextual sizing.
+description: Generates border-radius tokens from sharp to pill shapes. Use when creating corner rounding systems, button radius, card corners, or input styling. Outputs CSS, Tailwind, or JSON.
 ---
 
 # Radius Scale Generator

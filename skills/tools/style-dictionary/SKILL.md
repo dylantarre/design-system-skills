@@ -1,6 +1,6 @@
 ---
 name: style-dictionary
-description: Use when setting up multi-platform token transformation. Converts design tokens to CSS, iOS, Android, and other platform formats.
+description: Transforms design tokens into platform-specific formats (CSS, SCSS, iOS Swift, Android XML). Use when setting up multi-platform token pipelines, creating build processes, or managing cross-platform design systems.
 ---
 
 # Style Dictionary
@@ -33,6 +33,21 @@ Set up Style Dictionary to transform design tokens into platform-specific format
 3. **Set up config**: Create `style-dictionary.config.js`
 4. **Define transforms**: Add any custom value transformations
 5. **Build**: Run `style-dictionary build`
+
+### Implementation Checklist
+
+Copy this checklist when setting up Style Dictionary:
+
+```
+Style Dictionary Setup:
+- [ ] Install style-dictionary
+- [ ] Create tokens/ directory with JSON files
+- [ ] Create style-dictionary.config.js
+- [ ] Configure platforms (web, ios, android as needed)
+- [ ] Add custom transforms if needed (px→rem, color formats)
+- [ ] Add build script to package.json
+- [ ] Run build and verify output
+```
 
 ---
 

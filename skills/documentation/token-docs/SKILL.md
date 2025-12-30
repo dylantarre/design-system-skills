@@ -1,6 +1,6 @@
 ---
 name: token-docs
-description: Use when generating design token documentation, creating token reference guides, or documenting a design system's foundational values.
+description: Generates design token documentation with visual swatches and code examples. Use when documenting token values, creating token reference guides, or building searchable design system documentation.
 ---
 
 # Design Token Documentation Generator

@@ -1,6 +1,6 @@
 ---
 name: figma
-description: Use when syncing design tokens with Figma, setting up Figma Variables, or establishing a Figma-to-code workflow. Covers plugin integration and token formats.
+description: Syncs design tokens between code and Figma using Variables API or Tokens Studio plugin. Use when establishing Figma-to-code workflows, exporting Figma tokens, or setting up design-development handoff.
 ---
 
 # Figma Token Integration

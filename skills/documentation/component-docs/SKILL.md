@@ -1,6 +1,6 @@
 ---
 name: component-docs
-description: Use when generating component API documentation, creating usage guides, or documenting design system components with props, examples, and guidelines.
+description: Generates component API documentation with props tables, usage examples, and guidelines. Use when documenting component libraries, creating API references, or building component documentation for designers and developers.
 ---
 
 # Component Documentation Generator

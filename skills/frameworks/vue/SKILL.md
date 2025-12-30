@@ -1,6 +1,6 @@
 ---
 name: vue
-description: Use when building Vue 3 components with design tokens, creating component libraries with Composition API, or implementing design system patterns in Vue/Nuxt projects.
+description: Builds token-driven Vue 3 components with Composition API and TypeScript. Use when creating Vue component libraries, integrating design tokens, or building Nuxt design system components with composables.
 ---
 
 # Vue Component Patterns

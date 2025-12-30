@@ -1,6 +1,6 @@
 ---
 name: spacing-scale
-description: Use when creating spacing tokens, layout systems, or consistent padding/margin scales. Supports t-shirt sizes or numeric naming.
+description: Generates consistent spacing tokens using base values and ratios. Use when creating margin/padding systems, gap tokens, or layout spacing. Outputs CSS custom properties, Tailwind config, or JSON tokens.
 ---
 
 # Spacing Scale Generator

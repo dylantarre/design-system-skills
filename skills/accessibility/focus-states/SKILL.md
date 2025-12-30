@@ -1,6 +1,6 @@
 ---
 name: focus-states
-description: Use when creating keyboard focus indicators, focus-visible styles, or ensuring interactive elements are accessible to keyboard users.
+description: Generates accessible focus indicators meeting WCAG 2.4.7 and 2.4.11 requirements. Use when styling :focus-visible, keyboard navigation indicators, or fixing focus ring visibility issues.
 ---
 
 # Focus States Generator

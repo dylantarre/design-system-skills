@@ -1,6 +1,6 @@
 ---
 name: svelte
-description: Use when building Svelte 5 components with design tokens, creating component libraries with runes, or implementing design system patterns in Svelte/SvelteKit projects.
+description: Builds token-driven Svelte 5 components with runes ($state, $props) and TypeScript. Use when creating Svelte component libraries, integrating design tokens, or building SvelteKit design system components.
 ---
 
 # Svelte Component Patterns

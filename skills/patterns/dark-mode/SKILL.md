@@ -1,6 +1,6 @@
 ---
 name: dark-mode
-description: Use when implementing dark mode, theme switching, or light/dark color systems. Covers semantic tokens, CSS architecture, and framework integration.
+description: Implements theme switching with semantic tokens and prefers-color-scheme detection. Use when adding dark mode, light/dark themes, color scheme toggles, or converting hardcoded colors to theme-aware tokens.
 ---
 
 # Dark Mode Implementation
@@ -36,6 +36,22 @@ Implement robust dark mode using semantic color tokens, CSS custom properties, a
 6. **Add system detection**: `prefers-color-scheme`
 7. **Implement persistence**: localStorage or cookies
 8. **Handle edge cases**: Images, shadows, third-party components
+
+### Implementation Checklist
+
+Copy this checklist and track progress:
+
+```
+Dark Mode Implementation:
+- [ ] Audit existing colors (grep for hex, rgb, hsl)
+- [ ] Create semantic tokens (bg-primary, text-primary, border-primary)
+- [ ] Define light theme values
+- [ ] Define dark theme values
+- [ ] Add switching mechanism (data-theme attribute)
+- [ ] Add inline script in <head> to prevent flash of wrong theme
+- [ ] Implement toggle + localStorage persistence
+- [ ] Test contrast on both themes
+```
 
 ## Theme Token Architecture
 

@@ -1,6 +1,6 @@
 ---
 name: animation-principles
-description: Use when designing UI animations and micro-interactions. Applies Disney's 12 principles of animation to interface motion design.
+description: Applies Disney's 12 animation principles to UI motion design. Use when improving animation quality, designing micro-interactions, creating easing curves, or making transitions feel natural and purposeful.
 ---
 
 # Animation Principles for UI

@@ -1,6 +1,6 @@
 ---
 name: design-tokens-structure
-description: Use when architecting a token system from scratch. Covers primitive, semantic, and component token layers with proper aliasing.
+description: Architects token systems with primitive, semantic, and component layers. Use when structuring tokens from scratch, adding multi-theme support, setting up token aliasing, or organizing token hierarchies.
 ---
 
 # Design Tokens Structure
@@ -16,6 +16,21 @@ Establish the architectural foundation for a scalable design token system. Defin
 - Adding multi-theme or multi-brand support
 - Converting hardcoded values to tokens
 - Creating a token governance strategy
+
+### Implementation Checklist
+
+Copy this checklist when architecting a token system:
+
+```
+Token Architecture Setup:
+- [ ] Audit existing design values (colors, spacing, typography)
+- [ ] Define primitive tokens (raw values, context-free)
+- [ ] Define semantic tokens (purpose-based, reference primitives)
+- [ ] Create theme overrides (light.json, dark.json)
+- [ ] Add component tokens if needed for complex components
+- [ ] Set up build process (Style Dictionary or direct CSS)
+- [ ] Document naming conventions
+```
 
 ## Quick Reference: Token Layers
 

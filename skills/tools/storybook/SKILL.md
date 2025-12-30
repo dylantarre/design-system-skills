@@ -1,6 +1,6 @@
 ---
 name: storybook
-description: Use when documenting components with Storybook, creating interactive examples, or building a component library catalog. Covers stories, controls, and addons.
+description: Documents components with Storybook using CSF 3.0, controls, and MDX. Use when creating component catalogs, interactive examples, visual testing setups, or design system documentation sites.
 ---
 
 # Storybook Component Documentation

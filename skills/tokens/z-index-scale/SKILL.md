@@ -1,6 +1,6 @@
 ---
 name: z-index-scale
-description: Use when creating z-index tokens for layering management. Prevents z-index wars and provides predictable stacking contexts.
+description: Generates systematic z-index tokens for layering management. Use when organizing stacking contexts, modal/dropdown z-index, tooltip layers, or fixing z-index conflicts. Outputs CSS, Tailwind, or JSON.
 ---
 
 # Z-Index Scale

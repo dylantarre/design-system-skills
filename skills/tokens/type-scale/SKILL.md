@@ -1,6 +1,6 @@
 ---
 name: type-scale
-description: Use when creating typography scales, font size tokens, or establishing a typographic hierarchy. Includes auto-calculated line heights.
+description: Generates typography scales using modular ratios with auto-calculated line heights. Use when setting up font-size tokens, heading hierarchy (h1-h6), or text sizing systems. Outputs CSS, Tailwind, or JSON.
 ---
 
 # Type Scale Generator

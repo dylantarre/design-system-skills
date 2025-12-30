@@ -1,6 +1,6 @@
 ---
 name: angular
-description: Use when building Angular components with design tokens, creating component libraries with signals, or implementing design system patterns in Angular projects.
+description: Builds token-driven Angular components with signals and standalone components. Use when creating Angular component libraries, integrating design tokens, or building design system components with new control flow syntax.
 ---
 
 # Angular Component Patterns
